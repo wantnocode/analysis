@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>IP地址备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <linearGradient x1="47.1272289%" y1="45.2370275%" x2="107.705923%" y2="52.997452%" id="linearGradient-3">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.2978557%" y1="16.7048432%" x2="64.1041115%" y2="70.9534348%" id="linearGradient-4">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.262399%" y1="16.7048432%" x2="104.990735%" y2="70.9534348%" id="linearGradient-5">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.2179325%" y1="16.7048432%" x2="85.7967433%" y2="70.9534348%" id="linearGradient-6">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.4312602,18.5746324 L12.4312602,11.0221752 L10.8969233,11.5797846 L10.8969233,19.1322417 L12.4312602,18.5746324 Z M15.4003111,17.4785548 L15.4003111,14.4989276 L19.2574937,13.0916271 L19.2574937,8.51713542 L13.8716581,10.4821679 L13.8716581,18.0362868 L15.4003111,17.4785548 Z M17.7231568,12.5205646 L15.4059949,13.3706501 L15.4059949,11.0581228 L17.7231568,10.2080373 L17.7231568,12.5205646 Z" id="path-7"></path>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-166.000000, -633.000000)">
+            <g id="IP地址备份" transform="translate(166.000000, 633.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="IP地址" mask="url(#mask-2)">
+                    <g transform="translate(1.500000, 0.600000)">
+                        <g id="编组-2" stroke-width="1" fill-rule="evenodd">
+                            <polygon id="矩形备份" fill="#000000" points="-4.56282897e-14 7.61823703 25.6766582 0 27.0231172 0.970702934 25.6766582 18.6846812 1.34645891 27.2736211 -4.56282897e-14 26.3029182"></polygon>
+                            <g id="编组" transform="translate(9.613090, 23.484748)">
+                                <polygon id="矩形" fill="url(#linearGradient-3)" points="0 2.50503983 7.79693647 -1.9935304e-13 10.9282363 1.31514591 3.13129979 4.13331572"></polygon>
+                                <polygon id="路径-79" fill="#000000" points="3.13129979 4.13331572 3.13129979 5.38583563 10.9282363 2.56766582 10.9282363 1.31514591"></polygon>
+                                <polygon id="路径-80" fill="#000000" points="0 2.50503983 3.13129979 4.13331572 3.13129979 5.38583563 0 3.75755974"></polygon>
+                            </g>
+                            <polygon id="矩形备份-3" fill="#000000" points="12.6191381 22.0443505 15.374682 20.9797086 15.374682 25.6140323 14.184788 26.5534222 12.6191381 25.9271622"></polygon>
+                            <polygon id="矩形" fill="url(#linearGradient-4)" points="14.184788 22.1069765 16.9403318 21.0423346 16.9403318 25.6766582 14.184788 26.6160482"></polygon>
+                            <polygon id="矩形" fill="url(#linearGradient-5)" points="1.34645891 8.58893996 27.0231172 0.970702934 27.0231172 19.6553841 1.34645891 27.2736211"></polygon>
+                            <polygon id="矩形备份-2" fill="#95CDF1" points="2.9121088 9.26083121 25.4574673 2.56766582 25.4574673 18.3572329 2.9121088 25.0503983"></polygon>
+                            <polygon id="矩形备份-4" fill="#C1E2F7" points="2.9121088 9.26083121 25.4574673 2.56766582 2.9121088 25.0503983"></polygon>
+                        </g>
+                        <g id="IP" fill-rule="nonzero">
+                            <use fill="#FFFFFF" xlink:href="#path-7"></use>
+                            <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>税备份 3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <polygon id="path-3" points="17.4796275 0.698486612 17.4796275 4.13853318 19.7671711 2.89871944"></polygon>
+        <filter x="-87.4%" y="-29.1%" width="274.9%" height="216.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0156862745   0 0 0 0 0.498039216   0 0 0 0 0.682352941  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-216.000000, -785.000000)">
+            <g id="税备份-3" transform="translate(216.000000, 785.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="税" mask="url(#mask-2)">
+                    <g transform="translate(5.100000, 0.000000)">
+                        <g id="编组" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, -0.000000)">
+                            <polygon id="矩形备份" fill="#047FAE" points="0 6.15511921 15.9822468 0 18.2654249 2.19464135 18.2654249 22.2670914 1.50174622 30 0 29.3015134"></polygon>
+                            <polygon id="矩形" fill="#05A4DC" points="1.50174622 6.85360582 17.483993 0.698486612 19.7671711 2.89312796 19.7671711 22.965578 1.50174622 30"></polygon>
+                            <polygon id="路径-77" fill="#047FAE" points="15.9778813 0 17.4796275 0.698486612 1.50174622 6.8451688 0 6.14668219"></polygon>
+                            <g id="路径-78">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#45CFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                        <path d="M12.9228054,9.84638762 L13.1716294,11.1927929 L13.694603,10.9639674 L14.167875,9.65904779 L13.9190511,9.41048339 L16.1103483,8.45168801 L15.4876552,10.1794229 L16.1350407,9.89616137 L15.5873747,14.1314212 L14.8652787,14.4473721 L14.5540904,16.8941037 L15.0397087,16.6816229 L15.5873747,15.9569008 L15.3258879,17.9861523 L12.4745424,19.2337498 L12.9851697,15.270008 L12.5869247,15.4442589 L11.2921536,19.7511004 L9.49941793,20.5355064 L10.794189,16.2286649 L10.0097287,16.5719031 L10.5570781,12.3367818 L11.3788937,11.9771989 L11.1921175,10.9993782 L10.9306307,10.7180576 L12.9228054,9.84638762 Z M10.2328289,11.0011641 L10.0580245,12.3833335 L8.97278085,12.9613117 L8.81096015,14.1971663 L10.0706915,13.6453489 L9.89620383,15.0276991 L8.6238055,15.5850652 L7.90020416,21.2276571 L6.29118078,21.9324796 L7.01478212,16.2898877 L5.69266589,16.8690324 L5.86715357,15.4866822 L7.20193678,14.9019888 L7.33905686,13.8306855 L6.06697521,14.5029716 L6.24146288,13.1206214 L10.2328289,11.0011641 Z M9.77881257,15.4714785 L9.30994072,20.192874 L8.20721769,20.6752037 L8.68880472,15.9482466 L9.77881257,15.4714785 Z M6.8451688,16.7636787 L6.0607137,21.5998388 L4.99417928,22.0721769 L5.77863438,17.2360169 L6.8451688,16.7636787 Z M14.2840512,11.9790454 L12.1548915,12.9062954 L11.9441211,14.5285215 L14.0735963,13.6011341 L14.2840512,11.9790454 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

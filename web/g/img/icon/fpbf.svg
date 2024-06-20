@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>发票备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <polygon id="path-3" points="17.4796275 0.698486612 17.4796275 4.13853318 19.7671711 2.89871944"></polygon>
+        <filter x="-87.4%" y="-29.1%" width="274.9%" height="216.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.958621919   0 0 0 0 0.45219481   0 0 0 0 0.00527712796  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-166.000000, -785.000000)">
+            <g id="发票备份" transform="translate(166.000000, 785.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="发票" mask="url(#mask-2)">
+                    <g transform="translate(5.100000, 0.000000)">
+                        <g id="税备份" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-0.000000, 0.000000)">
+                            <g id="编组" transform="translate(-0.000000, -0.000000)">
+                                <polygon id="矩形备份" fill="#F06400" points="0 6.15511921 15.9822468 0 18.2654249 2.19464135 18.2654249 22.2670914 1.50174622 30 0 29.3015134"></polygon>
+                                <polygon id="矩形" fill="#FCAB01" points="1.50174622 6.85360582 17.483993 0.698486612 19.7671711 2.89312796 19.7671711 22.965578 1.50174622 30"></polygon>
+                                <polygon id="路径-77" fill="#FC8C00" points="15.9778813 0 17.4796275 0.698486612 1.50174622 6.8451688 0 6.14668219"></polygon>
+                                <g id="路径-78">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#FEEBA5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <path d="M15.7730769,13.0810085 L15.7730769,10.1093726 L13.0640468,11.1848907 L13.0640468,10.6696474 L15.6165552,9.65627037 L16.05,8.25 L5.68344482,12.365649 L5.25,13.7719194 L8.23595318,12.5864595 L8.23595318,13.1017028 L5.52692308,14.1772209 L5.52692308,17.1488568 L15.7730769,13.0810085 Z M11.0292642,11.9927242 L10.2707358,12.2938693 L10.2707358,11.778626 L11.0292642,11.4774809 L11.0292642,11.9927242 Z M11.0292642,13.9099087 L10.2707358,14.2110537 L10.2707358,13.4082328 L11.0292642,13.1070877 L11.0292642,13.9099087 Z M13.7503344,12.8296106 L13.0640468,13.1020751 L13.0640468,12.2992541 L13.7503344,12.0267896 L13.7503344,12.8296106 Z M8.23595318,15.0188873 L7.54966555,15.2913519 L7.54966555,14.4885309 L8.23595318,14.2160663 L8.23595318,15.0188873 Z M15.2553512,15.0240004 L15.688796,13.6057476 L6.0687291,17.4250317 L5.64732441,18.8385044 L15.2553512,15.0240004 Z M11.727592,20.6783169 L11.727592,18.1739947 L15.6165552,16.6300288 L16.05,15.211776 L5.68344482,19.327425 L5.25,20.7456778 L9.57240803,19.029629 L9.57240803,20.3117461 L8.85,19.5201347 L8.85,21.820756 L11.727592,20.6783169 Z M16.05,18.9622681 L16.05,16.7215588 L15.3998328,18.0580993 L15.0145485,17.1326457 L13.1242475,17.8831182 L13.8466555,19.8370227 L16.05,18.9622681 Z M7.45334448,22.3752453 L8.17575251,19.8477312 L6.28545151,20.5982038 L5.90016722,21.8295826 L5.25,21.0092907 L5.25,23.25 L7.45334448,22.3752453 Z" id="票" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

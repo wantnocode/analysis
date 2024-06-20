@@ -1,0 +1,1 @@
+"use strict";function mlm_layout(){myDiagram.div=null,myDiagram=GO(go.Diagram,Diagram_name,{initialAutoScale:go.Diagram.Uniform,"undoManager.isEnabled":!0,layout:GO(DoubleTreeLayout,{directionFunction:function(a){return a.data&&"top"!==a.data.dir}})}),initOverview(),myDiagram.nodeTemplateMap.add("",mlm_circular_node_template()),myDiagram.linkTemplate=mlm_flow_link_template()}

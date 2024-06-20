@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>维修厂备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <polygon id="path-3" points="14.6931989 0 29.3863977 10.4938847 22.0397983 13.3490584 14.6931989 20.9877694 0 10.4938847 7.34659943 2.85517375"></polygon>
+        <polygon id="path-5" points="0 0 14.6931989 10.5059406 14.6931989 19.6051028 0 9.09916222"></polygon>
+        <polygon id="path-7" points="0 19.6051028 0 10.5059406 7.34659943 2.85845392 14.6931989 0 14.6931989 9.09916222"></polygon>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-316.000000, -177.000000)">
+            <g id="维修厂备份" transform="translate(316.000000, 177.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="编组-9备份" mask="url(#mask-2)">
+                    <g transform="translate(0.300000, 0.000000)">
+                        <g id="路径-24" stroke="none" stroke-width="1" fill="none">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="蒙版" fill="#3E75CB" xlink:href="#path-3"></use>
+                            <polygon fill="#2F62B2" mask="url(#mask-4)" points="7.36156195 2.8402252 22.0547608 13.3341099 22.0547608 24.9042904 -0.62842602 21.4063289 -0.62842602 -0.298971074"></polygon>
+                        </g>
+                        <g id="矩形" stroke="none" stroke-width="1" fill="none" transform="translate(0.000000, 10.500000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="蒙版" fill="#D9E2EE" xlink:href="#path-5"></use>
+                            <rect fill="#3E75CB" mask="url(#mask-6)" x="14.2143981" y="8.59032749" width="1.67580272" height="14.1276466"></rect>
+                            <rect id="矩形备份-2" fill="#3E75CB" mask="url(#mask-6)" x="-1.16707689" y="-1.79588728" width="1.67580272" height="14.1276466"></rect>
+                        </g>
+                        <g id="矩形-+-矩形备份-蒙版" stroke="none" stroke-width="1" fill="none" transform="translate(14.700000, 10.500000)">
+                            <g id="蒙版备份-4-+-矩形-+-矩形备份-蒙版">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="蒙版" fill="#D9E2EE" xlink:href="#path-7"></use>
+                                <polygon id="蒙版备份-4" fill="#8C99A2" mask="url(#mask-8)" points="3.23190525 19.0064737 3.23190525 13.1857883 12.6283705 6.46519421 12.6283705 12.2858797"></polygon>
+                                <polygon id="蒙版备份-5" fill="#FFFFFF" mask="url(#mask-8)" points="5.32665865 9.81751714 5.32665865 8.39680122 10.0248913 5.02848439 10.0248913 6.4492003"></polygon>
+                                <rect id="矩形" fill="#3E75CB" mask="url(#mask-8)" x="-1.37655223" y="8.59032749" width="1.67580272" height="14.1276466"></rect>
+                                <rect id="矩形备份" fill="#3E75CB" mask="url(#mask-8)" x="14.184473" y="-0.239451637" width="1.67580272" height="14.1276466"></rect>
+                                <polygon id="路径-22" fill="#5C707D" mask="url(#mask-8)" points="10.0248913 8.35087586 12.6283705 10.3862148 12.6283705 6.46519421"></polygon>
+                            </g>
+                        </g>
+                        <path d="M1.75,12.9349288 L12.95,20.9103135 L12.95,22.7650712 L1.75,14.7896865 L1.75,12.9349288 Z" id="蒙版" stroke="#FFFFFF" stroke-width="0.5" fill="#8C99A2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

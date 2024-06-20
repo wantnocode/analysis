@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>企业备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <polygon id="path-3" points="13.5190201 -1.52422877e-14 27.6375533 9.70967742 19.079504 11.5 14.7180463 17.1612903 3.85253682e-15 5.83870968 6.75951004 0.177419355"></polygon>
+        <polygon id="path-5" points="0 5.16129032 12.6197505 14.8709677 12.6197505 24.0322581 0 14.3225806"></polygon>
+        <polygon id="path-7" points="1.38975867e-14 20.2903226 1.38975867e-14 11.1290323 2.33486971 9.6631436 2.33810103 6.35483871 8.28826841 0.0161290323 16.8463177 0.161290323 16.8463177 11.9032258"></polygon>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-166.000000, -177.000000)">
+            <g id="企业备份" transform="translate(166.000000, 177.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="编组-4" mask="url(#mask-2)">
+                    <g id="编组-9">
+                        <g id="路径-24" transform="translate(1.798539, 0.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="蒙版" fill="#C4B0A6" xlink:href="#path-3"></use>
+                            <polygon fill="#B4A090" mask="url(#mask-4)" points="5.5754717 -0.64516129 19.0944918 9.5483871 19.0944918 25.2580645 -3.62705417 21.483871 -2.428028 -1.93548387"></polygon>
+                        </g>
+                        <g id="矩形" transform="translate(0.000000, 5.838710)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="蒙版" fill="#947C68" xlink:href="#path-5"></use>
+                            <polygon id="路径" fill="#C4B0A6" points="2.65172343e-14 5.16129032 1.79853926 3.5483871 14.9278758 13.3870968 12.6197505 14.8709677"></polygon>
+                            <polygon id="路径-36" fill="#947C68" points="1.79853926 0 1.79853926 3.5483871 14.9278758 13.3870968 14.9278758 10.0645161"></polygon>
+                        </g>
+                        <g id="蒙版备份-4-+-矩形-+-矩形备份-蒙版" transform="translate(12.589775, 9.548387)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="蒙版" fill="#A89182" xlink:href="#path-7"></use>
+                            <polygon id="矩形" fill="#192633" mask="url(#mask-8)" points="8.36320755 9.56680664 11.6305539 7.88709677 11.6305539 16.2741935 8.36320755 16.2741935"></polygon>
+                            <polygon id="矩形备份" fill="#52B1CA" mask="url(#mask-8)" points="8.99269629 9.95772094 11.0010651 8.91935484 11.0010651 11.3709677 8.99269629 12.3064516"></polygon>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(16.050000, 22.050000)">
+                        <polygon id="矩形" fill="#D8D8D8" points="-1.19093295e-14 5.12903226 11.1639508 0 13.4685733 0.903225806 1.97539075 6.19354839"></polygon>
+                        <polygon id="路径-37" fill="#BFBDBD" points="1.97539075 6.19354839 1.97539075 7.03225806 13.4685733 1.74193548 13.4685733 0.903225806"></polygon>
+                        <polygon id="路径-38" fill="#947C68" points="-2.12458916e-16 5.12903226 1.97539075 6.19354839 1.97539075 7.03225806 0 5.96774194"></polygon>
+                    </g>
+                    <g id="编组-3" transform="translate(26.400000, 13.050000)">
+                        <rect id="矩形" fill="#8E7560" x="0" y="0" width="1.53763441" height="9.90322581"></rect>
+                        <ellipse id="椭圆形" fill="#947C68" cx="0.768817204" cy="9.88709677" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="编组-3备份-3" transform="translate(24.600000, 13.950000)">
+                        <rect id="矩形" fill="#8E7560" x="0" y="0" width="1.53763441" height="9.90322581"></rect>
+                        <ellipse id="椭圆形" fill="#947C68" cx="0.768817204" cy="9.88709677" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="编组-3备份" transform="translate(17.250000, 17.250000)">
+                        <rect id="矩形" fill="#8E7560" x="0" y="0" width="1.53763441" height="9.90322581"></rect>
+                        <ellipse id="椭圆形" fill="#947C68" cx="0.768817204" cy="9.88709677" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="编组-3备份-2" transform="translate(19.200000, 16.350000)">
+                        <rect id="矩形" fill="#8E7560" x="0" y="0" width="1.53763441" height="9.90322581"></rect>
+                        <ellipse id="椭圆形" fill="#947C68" cx="0.768817204" cy="9.88709677" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="编组-2" transform="translate(12.300000, 9.900000)">
+                        <path d="M9.00256016,0 L16.5248336,2.41935484 L17.6426011,3.61290323 L0.936507937,12.0322581 L0,10.7741935 L9.00256016,0 Z" id="形状结合" fill="#C4B0A6"></path>
+                        <polygon id="路径-2" fill="#947C68" points="9.90885817 1.29032258 0.906298003 12.0645161 17.4311316 3.70967742"></polygon>
+                        <polygon id="蒙版备份-5" fill="#192633" points="7.82437276 7.25806452 7.82437276 5.72691455 12.5673323 3.22580645 12.5673323 4.75695641"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

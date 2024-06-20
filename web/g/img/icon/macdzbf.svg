@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mac地址备份</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+        <linearGradient x1="47.1272289%" y1="45.2370275%" x2="107.705923%" y2="52.997452%" id="linearGradient-3">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.2978557%" y1="16.7048432%" x2="64.1041115%" y2="70.9534348%" id="linearGradient-4">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.262399%" y1="16.7048432%" x2="104.990735%" y2="70.9534348%" id="linearGradient-5">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.1272289%" y1="26.5468746%" x2="107.705923%" y2="64.7596102%" id="linearGradient-6">
+            <stop stop-color="#484C4C" offset="0%"></stop>
+            <stop stop-color="#262828" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.77082344,19.8393547 L8.77082344,13.9442127 L9.51135343,13.7164616 L9.51135343,19.6116037 L10.690716,19.248889 L10.690716,13.3537469 L11.431246,13.1259958 L11.431246,19.0211379 L12.6106086,18.6584232 L12.6106086,11.1676036 L7.59146087,12.7112499 L7.59146087,20.2020694 L8.77082344,19.8393547 Z M17.4227164,17.2044789 L17.6297562,15.5282804 L17.0431434,15.7077948 L17.0431434,9.81870766 L13.7581112,10.823988 L13.4889594,12.5043971 L15.8561149,11.7800039 L15.8561149,12.9193499 L13.6752953,13.5867209 L13.6752953,18.3512587 L17.4227164,17.2044789 Z M15.8730546,16.0682974 L14.869225,16.3749693 L14.869225,14.6739822 L15.8730546,14.3673102 L15.8730546,16.0682974 Z M21.3772878,15.9768182 L21.6450744,14.2848639 L19.6263753,14.9045814 L19.6263753,10.7694517 L21.3772878,10.2319416 L21.6450744,8.40707237 L18.4453677,9.38934569 L18.4453677,16.8768841 L21.3772878,15.9768182 Z" id="path-7"></path>
+    </defs>
+    <g id="多色设计方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控件库30*30" transform="translate(-216.000000, -633.000000)">
+            <g id="mac地址备份" transform="translate(216.000000, 633.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                <g id="mac地址" mask="url(#mask-2)">
+                    <g transform="translate(1.500000, 0.600000)">
+                        <g id="Mac地址" stroke-width="1" fill-rule="evenodd">
+                            <g id="编组-2">
+                                <polygon id="矩形备份" fill="#000000" points="-4.57108749e-14 7.63202571 25.7231319 0 27.0720278 0.972459864 25.7231319 18.7184996 1.34889594 27.3229852 -4.57108749e-14 26.3505253"></polygon>
+                                <g id="编组" transform="translate(9.630490, 23.527255)">
+                                    <polygon id="矩形" fill="url(#linearGradient-3)" points="0 2.50957384 7.81104858 -1.9971386e-13 10.9480159 1.31752627 3.1369673 4.14079684"></polygon>
+                                    <polygon id="路径-79" fill="#000000" points="3.1369673 4.14079684 3.1369673 5.39558376 10.9480159 2.57231319 10.9480159 1.31752627"></polygon>
+                                    <polygon id="路径-80" fill="#000000" points="0 2.50957384 3.1369673 4.14079684 3.1369673 5.39558376 0 3.76436076"></polygon>
+                                </g>
+                                <polygon id="矩形备份-3" fill="#000000" points="12.6419782 22.0842498 15.4025095 21.0176809 15.4025095 25.6603925 14.2104619 26.6014827 12.6419782 25.9740893"></polygon>
+                                <polygon id="矩形" fill="url(#linearGradient-4)" points="14.2104619 22.1469892 16.9709931 21.0804203 16.9709931 25.7231319 14.2104619 26.6642221"></polygon>
+                                <polygon id="矩形" fill="url(#linearGradient-5)" points="1.34889594 8.60448557 27.0720278 0.972459864 27.0720278 19.6909595 1.34889594 27.3229852"></polygon>
+                                <polygon id="矩形备份-2" fill="#95CDF1" points="2.91737959 9.27759292 25.5035442 2.57231319 25.5035442 18.3904587 2.91737959 25.0957384"></polygon>
+                                <polygon id="矩形备份-4" fill="#C1E2F7" points="2.91737959 9.27759292 25.5035442 2.57231319 2.91737959 25.0957384"></polygon>
+                            </g>
+                        </g>
+                        <g id="mac" fill-rule="nonzero">
+                            <use fill="#FFFFFF" xlink:href="#path-7"></use>
+                            <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

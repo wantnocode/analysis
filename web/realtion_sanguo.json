@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {"key": "LiuBei", "text": "刘备", "type": "person"},
+    {"key": "GuanYu", "text": "关羽", "type": "person"},
+    {"key": "ZhangFei", "text": "张飞", "type": "person"},
+    {"key": "ZhaoYun", "text": "赵云", "type": "person"},
+    {"key": "MaChao", "text": "马超", "type": "person"},
+    {"key": "HuangZhong", "text": "黄忠", "type": "person"},
+    {"key": "WeiYan", "text": "魏延", "type": "person"},
+    {"key": "PangTong", "text": "庞统", "type": "person"},
+    {"key": "ZhugeLiang", "text": "诸葛亮", "type": "person"},
+    {"key": "CaoCao", "text": "曹操", "type": "person"},
+    {"key": "XiahouDun", "text": "夏侯惇", "type": "person"},
+    {"key": "XiahouYuan", "text": "夏侯渊", "type": "person"},
+    {"key": "ZhangLiao", "text": "张辽", "type": "person"},
+    {"key": "SimaYi", "text": "司马懿", "type": "person"},
+    {"key": "DongZhuo", "text": "董卓", "type": "person"},
+    {"key": "LuBu", "text": "吕布", "type": "person"},
+    {"key": "SunQuan", "text": "孙权", "type": "person"},
+    {"key": "ZhouYu", "text": "周瑜", "type": "person"},
+    {"key": "TaishiCi", "text": "太史慈", "type": "person"},
+    {"key": "LingTong", "text": "凌统", "type": "person"}
+  ],
+  "links": [
+    {"from": "LiuBei", "to": "GuanYu", "relation": "兄弟"},
+    {"from": "LiuBei", "to": "ZhangFei", "relation": "兄弟"},
+    {"from": "LiuBei", "to": "ZhaoYun", "relation": "部将"},
+    {"from": "LiuBei", "to": "MaChao", "relation": "部将"},
+    {"from": "LiuBei", "to": "HuangZhong", "relation": "部将"},
+    {"from": "LiuBei", "to": "WeiYan", "relation": "部将"},
+    {"from": "LiuBei", "to": "PangTong", "relation": "谋士"},
+    {"from": "LiuBei", "to": "ZhugeLiang", "relation": "主帅"},
+    {"from": "CaoCao", "to": "XiahouDun", "relation": "部将"},
+    {"from": "CaoCao", "to": "XiahouYuan", "relation": "部将"},
+    {"from": "CaoCao", "to": "ZhangLiao", "relation": "部将"},
+    {"from": "CaoCao", "to": "SimaYi", "relation": "谋士"},
+    {"from": "DongZhuo", "to": "LuBu", "relation": "主仆"},
+    {"from": "SunQuan", "to": "ZhouYu", "relation": "好友"},
+    {"from": "SunQuan", "to": "TaishiCi", "relation": "部将"},
+    {"from": "SunQuan", "to": "LingTong", "relation": "部将"}
+  ]
+}
